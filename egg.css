@@ -1,0 +1,42 @@
+body {
+  background-color: #000000;
+  background-image: url();
+  cursor: url(http://i.imgur.com/2wqeqmJ.png), auto;
+  font-size: 15pt;
+  font-family: "Courier New", "Courier", monospace;
+  color: #fff;
+  text-decoration: none;
+}
+
+h1 {
+color: #fff;
+text-align: center;
+font-size: 30pt;
+font-family: "Courier New", "Courier", monospace;
+}
+
+t {
+color: #fff;
+text-align: center;
+font-size: 15pt;
+font-family: "Courier New", "Courier", monospace;
+}
+
+foot {
+  color: #fff;
+  text-align: center;
+  font-size: 10pt;
+  font-family: "Courier New", "Courier", monospace;
+}
+
+img {
+  cursor: url(http://i.imgur.com/2wqeqmJ.png), auto;
+  padding-top: 100px;
+}
+
+a {
+  font-size: 15pt;
+  font-family: "Courier New", "Courier", monospace;
+  color: #fff;
+  text-decoration: none;
+}
