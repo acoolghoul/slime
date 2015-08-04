@@ -1,3 +1,6 @@
+head {
+  cursor: url(http://i.imgur.com/2wqeqmJ.png)
+}
 body {
   background-color: #000000;
   background-image: url(http://38.media.tumblr.com/c99d075ddc30ca801d5543f9129f54ed/tumblr_nenhf0LjO61tw0tdko1_500.gif);
@@ -49,5 +52,6 @@ div {
   border: 5px black;
   margin: 200px;
   background-color: #33CCCC;
+  opacity: 0.5;
   
 }
