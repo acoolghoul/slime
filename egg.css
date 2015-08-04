@@ -42,3 +42,10 @@ a {
   color: #fff;
   text-decoration: none;
 }
+
+div {
+  width: 200px;
+  padding: 15px;
+  border: 1px black;
+  margin: 200px;
+}
