@@ -54,7 +54,8 @@ div {
   border: 5px black;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 300px;
+  margin-top: auto;
+  margin-bottom: auto;
   background-color: #33CCCC;
   opacity: 0.4;
   
