@@ -1,11 +1,13 @@
 body {
   background-color: #000000;
   background-image: url(http://38.media.tumblr.com/c99d075ddc30ca801d5543f9129f54ed/tumblr_nenhf0LjO61tw0tdko1_500.gif);
+  background-size: 100%;
   cursor: url(http://i.imgur.com/2wqeqmJ.png), auto;
   font-size: 15pt;
   font-family: "Courier New", "Courier", monospace;
   color: #fff;
   text-decoration: none;
+  text-align: center;
 }
 
 h1 {
