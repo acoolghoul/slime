@@ -21,5 +21,9 @@ div {
   margin-bottom: auto;
   background-color: #fff;
   opacity: 0.85;
-  
+}
+footer {
+  font-family: "Verdana";
+  font-size: 3px;
+  text-align: center;
 }
