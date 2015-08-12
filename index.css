@@ -3,7 +3,7 @@ body {
 }
 div.header {
   font-family: "Verdana";
-  font-size: 20px;
+  font-size: 200%;
   color: #523D66;
   width: 300px;
   padding: 15px;
@@ -46,8 +46,6 @@ div.mainbox {
   width: 300px;
   padding: 15px;
   padding-top: 10px;
-  padding-left: 25px;
-  padding-right: 25px;
   border: 0px;
   margin-right: auto;
   margin-left: auto;
