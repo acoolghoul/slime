@@ -54,6 +54,9 @@ div.mainbox {
   background-color: #fff;
   opacity: 1;
 }
+div.me {
+  color: #CC99FF;
+}
 div.footer {
   font-family: "Verdana";
   font-size: 10px;
