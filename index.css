@@ -6,13 +6,23 @@ h1 {
   font-size: "20px";
   color: #523D66;
 }
-div {
-  font-family: "Verdana";
+div.nav {
+  font-family: "Verdana"
+  width: 300px;
+}
+a {
+  text-decoration: bold;
+  color: #523D66;
+}
+a hover {
+  text-decoration: none;
+  color: #523D66;
 }
 img {
   height: 200px;
 }
-div {
+div.mainbox {
+  font-family: "Verdana";
   width: 300px;
   padding: 15px;
   padding-top: 10px;
@@ -24,7 +34,7 @@ div {
   margin-top: 100px;
   margin-bottom: auto;
   background-color: #fff;
-  opacity: 0.85;
+  opacity: 1;
 }
 footer {
   font-family: "Verdana";
