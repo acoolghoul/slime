@@ -1,7 +1,7 @@
 body {
   background-color: #E7E7FF;
 }
-h1 {
+div.header {
   font-family: "Verdana";
   font-size: "20px";
   color: #523D66;
