@@ -33,7 +33,6 @@ div.nav {
   opacity: 1;
 }
 
-
 img {
   height: 200px;
 }
@@ -54,6 +53,19 @@ div.mainbox {
 me {
   color: #CC99FF;
 }
+
+a.header {
+  font-family: "Verdana";
+  color: #000;
+  text-decoration: none;
+}
+
+a.nav {
+  font-family: "Verdana";
+  color: #CC99FF;
+  text-decoration: none;
+}
+
 div.footer {
   font-family: "Verdana";
   font-size: 10px;
