@@ -8,12 +8,11 @@ div.header {
   width: 300px;
   padding: 15px;
   padding-top: 10px;
-  padding-left: 25px;
-  padding-right: 25px;
   border: 0px;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: auto;
+  margin-top: 100px;
   background-color: #fff;
   opacity: 1;
 }
@@ -26,6 +25,7 @@ div.nav {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: auto;
+  margin-top: 10px;
   background-color: #fff;
   opacity: 1;
 }
@@ -51,7 +51,7 @@ div.mainbox {
   border: 0px;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 100px;
+  margin-top: 10px;
   margin-bottom: auto;
   background-color: #fff;
   opacity: 1;
