@@ -8,3 +8,15 @@ div {
 img {
   height: 200px;
 }
+div {
+  width: 300px;
+  padding: 15px;
+  border: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 200px;
+  margin-bottom: auto;
+  background-color: #E6E6E6;
+  opacity: 0.85;
+  
+}
