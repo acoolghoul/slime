@@ -3,7 +3,7 @@ body {
 }
 div.header {
   font-family: "Verdana";
-  font-size: "20px";
+  font-size: 20px;
   color: #523D66;
   width: 300px;
   padding: 15px;
@@ -12,7 +12,7 @@ div.header {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: auto;
-  margin-top: 100px;
+  margin-top: 80px;
   background-color: #fff;
   opacity: 1;
 }
