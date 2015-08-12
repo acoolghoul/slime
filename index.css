@@ -11,8 +11,9 @@ div.nav {
   width: 300px;
 }
 a {
-  text-decoration: bold;
+  text-decoration: none;
   color: #523D66;
+  font-family: "Verdana";
 }
 a hover {
   text-decoration: none;
