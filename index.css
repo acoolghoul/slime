@@ -2,7 +2,7 @@ body {
   background-color: #00ff00;
 }
 div.header {
-  font-family: Cooper Black;
+  font-family: "Cooper Black", Cooper;
   font-size: 200%;
   text-decoration: none;
   color: #000;
