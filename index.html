@@ -6,7 +6,18 @@
 </head>
 
 <body>
-  <div class="header" align="center"><a class="header" href="http://slime.nz"><b>slime.nz</b></a></div>
+  <div class="header" align="center"><a class="header" href="http://slime.nz">
+    <script>
+      window.onload = choosePic;
+
+var slimenz = new Array("http://i.imgur.com/RtPsUeF.gifv","http://i.imgur.com/00kmXXS.png","http://i.imgur.com/m0EyHL8.png");
+
+function choosePic() {
+     var randomNum = Math.floor(Math.random() * slimenz.length);
+     document.getElementById("myPicture").src = slimenz[randomNum];
+    </script>
+    
+  </div>
   
   <div class="nav" align="center">
     <a class="nav" href="">play</a>
