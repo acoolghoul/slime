@@ -17,7 +17,7 @@ div.header {
 }
 div.nav {
   font-family: "Verdana";
-  width: 300px;
+  width: 400px;
   color: #000;
   text-decoration: none;
   padding: 15px;
@@ -37,7 +37,7 @@ img.spider {
 
 div.mainbox {
   font-family: "Verdana";
-  width: 300px;
+  width: 400px;
   padding: 15px;
   padding-top: 20px;
   border: 0px;
