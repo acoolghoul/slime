@@ -1,6 +1,10 @@
 body {
   background-color: #00ff00;
 }
+div.banner {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
 div.header {
   font-family: "Cooper Black", Cooper;
   font-size: 200%;
